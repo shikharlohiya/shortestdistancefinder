@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/shortestdistancefinder/static/css/main.973b96fe.css",
+    "main.js": "/shortestdistancefinder/static/js/main.dc20d336.js",
+    "index.html": "/shortestdistancefinder/index.html",
+    "main.973b96fe.css.map": "/shortestdistancefinder/static/css/main.973b96fe.css.map",
+    "main.dc20d336.js.map": "/shortestdistancefinder/static/js/main.dc20d336.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.973b96fe.css",
+    "static/js/main.dc20d336.js"
+  ]
+}
